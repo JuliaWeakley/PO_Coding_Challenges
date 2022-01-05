@@ -1,4 +1,7 @@
-
+/*
+*	Author : Julia Weakley
+*	Date: 1/05/2022
+*/
 public class MenuItem 
 {
 	public String name; 
